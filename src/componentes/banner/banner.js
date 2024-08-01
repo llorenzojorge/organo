@@ -1,6 +1,6 @@
 function Banner() {
     return (
-        <img src=""></img>
+        <img src="/imagens/banner.png"alt="Banner principal da página do Organo"/>
     )
 }
 
