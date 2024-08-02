@@ -1,4 +1,4 @@
-import './banner.css'
+import './Banner.css'
 
 function Banner() {
     // Não é HTML, é JSX
