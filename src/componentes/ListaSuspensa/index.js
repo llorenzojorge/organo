@@ -5,4 +5,4 @@ const ListaSuspensa = () => {
 }
 
 
-import default ListaSuspensa;
+export default ListaSuspensa;
